@@ -9,17 +9,12 @@ Este projeto demonstra a implementação de segurança usando Spring Boot 3.0 e 
 * Mecanismo de logout
 
 ## Tecnologias
+* JDK 17+
+* Maven 3+
 * Spring Boot 3.0
 * Spring Security
 * JSON Web Tokens (JWT)
 * BCrypt
-* Maven
- 
-## Getting Started
-Para começar com este projeto, você precisará ter instalado em sua máquina local:
-
-* JDK 17+
-* Maven 3+
 
 Para compilar e executar o projeto , siga o passo a passo:
 
